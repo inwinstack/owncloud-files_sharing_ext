@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>files_sharing_ext</id>
+    <name>Files Sharing Ext</name>
+    <description>provide mutiple files share api</description>
+    <licence>AGPL</licence>
+    <author>dauba</author>
+    <version>0.0.1</version>
+    <namespace>Files_Sharing_Ext</namespace>
+    <category>other</category>
+    <dependencies>
+        <owncloud min-version="8.1" />
+    </dependencies>
+</info>
